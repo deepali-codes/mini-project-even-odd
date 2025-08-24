@@ -24,7 +24,7 @@ A very simple beginner-friendly **C++ mini project** that checks whether a given
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/even-odd-checker.git
+git clone https://github.com/deepali-codes/even-odd-checker.git
 cd even-odd-checker
 ```
 
